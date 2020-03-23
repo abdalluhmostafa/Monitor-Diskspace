@@ -5,7 +5,7 @@
 # It will send an email to $ADMIN, if the (free available) percentage of space is >= 90%.
 # -------------------------------------------------------------------------
 # Set admin email so that you can get email.
-ADMIN="abdalluh@hub-secure.com"
+ADMIN="your-email"
 # set alert level 90% is default
 ALERT=90
 # Exclude list of unwanted monitoring, if several partions then use "|" to separate the partitions.
